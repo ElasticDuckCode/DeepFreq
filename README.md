@@ -1,4 +1,5 @@
 Modifed for experimenting with by Jake Millhiser.
+-- Added notebook to compare DeepFreq to FFT and other methods.
 
 # Code and Pretrained Networks from <br>"Data-driven Estimation of Sinusoid Frequencies"
 
